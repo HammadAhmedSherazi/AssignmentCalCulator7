@@ -1,0 +1,31 @@
+table{
+    margin: 10px auto;
+    width: 400px;
+    height: 500px;
+    background-color: cornflowerblue;
+    border-collapse: separate;
+    border-spacing: 10px 15px;
+    border-radius: 10px;
+
+}
+td{
+    width: 60px;
+    height: 30px;
+    
+    
+}
+button{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(53, 54, 105, 0.87);
+    color: ghostwhite;
+    font-size:  larger;
+    border-radius: 10px;
+
+}
+input{
+    width: 98%;
+    height: 98%;
+    font-size: larger;
+    
+}
